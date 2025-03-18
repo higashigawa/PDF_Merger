@@ -9,7 +9,7 @@ class PDFMergerApp(QWidget):
         
     def initUI(self):
         self.setWindowTitle('PDF Merger')
-        self.setGeometry(100, 100, 400, 300)
+        self.setGeometry(100, 100, 800, 600)
         
         layout = QVBoxLayout()
         
